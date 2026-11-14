@@ -288,5 +288,33 @@
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_mhVGuNhU3_UfCOFNEUPJQ"
     },
     "login": "none"
+  },
+  {
+    "id": "kaomate-hsk-3-examples",
+    "name": "KaoMate HSK 3.0 Mock Test and Practice Questions",
+    "url": "https://kaomate.com/en/guides/hsk-mock-test/",
+    "description": "Try original Chinese practice questions with English explanations for HSK 1–6 and the combined HSK 7–9 exam, then use the linked official demo to practise under time limits.",
+    "category": "exam",
+    "type": "website",
+    "tags": [
+      "hsk",
+      "mock-tests",
+      "worked-examples"
+    ],
+    "level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": true,
+    "script": "simplified",
+    "region": "global",
+    "dialect": "mandarin",
+    "language": "zh+en",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ],
+    "login": "none"
   }
 ]

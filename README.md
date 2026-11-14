@@ -21,7 +21,7 @@ This list powers the Feed tab of [Hanzi Popup](https://krmanik.github.io/hanzipo
   - <img src="assets/icons/graduation-cap.svg" width="14" height="14" alt=""> [Courses & Grammar](#courses--grammar) · 24
   - <img src="assets/icons/book-a.svg" width="14" height="14" alt=""> [Dictionaries & Tools](#dictionaries--tools) · 22
   - <img src="assets/icons/smartphone.svg" width="14" height="14" alt=""> [Learning Apps](#learning-apps) · 17
-  - <img src="assets/icons/badge-check.svg" width="14" height="14" alt=""> [HSK & TOCFL](#hsk--tocfl) · 10
+  - <img src="assets/icons/badge-check.svg" width="14" height="14" alt=""> [HSK & TOCFL](#hsk--tocfl) · 11
   - <img src="assets/icons/users.svg" width="14" height="14" alt=""> [Tutors & Community](#tutors--community) · 9
   - <img src="assets/icons/globe.svg" width="14" height="14" alt=""> [About China (English)](#about-china-english) · 14
 - **[Read](#read)**
@@ -54,7 +54,7 @@ This list powers the Feed tab of [Hanzi Popup](https://krmanik.github.io/hanzipo
   - <img src="assets/icons/mic.svg" width="14" height="14" alt=""> [Chinese Podcasts](#chinese-podcasts) · 36
   - <img src="assets/icons/radio.svg" width="14" height="14" alt=""> [Radio & Audiobooks](#radio--audiobooks) · 10
 
-**764 resources, 137 picks.** After each entry: **Pick** for well-known, free resources that open without an account, *For learners* when it is made for learners, then level · 简 simplified / 繁 traditional · region · language if not all Chinese · pricing if not free · Chinese subtitles or transcripts as text · login needs.
+**765 resources, 137 picks.** After each entry: **Pick** for well-known, free resources that open without an account, *For learners* when it is made for learners, then level · 简 simplified / 繁 traditional · region · language if not all Chinese · pricing if not free · Chinese subtitles or transcripts as text · login needs.
 
 ## Learn
 
@@ -323,6 +323,7 @@ This list powers the Feed tab of [Hanzi Popup](https://krmanik.github.io/hanzipo
 - [HSK Lord](https://hsklord.com/) - HSK 3.0 vocabulary, guides and practice. <sub>*For learners* · All levels · 简 · CN · Bilingual</sub>
 - [HSK Mock](https://www.hskmock.com/) - Online HSK mock exams with real test format. <sub>*For learners* · All levels · 简 · CN · Bilingual · Freemium · Some content needs login</sub>
 - [HSK Online (汉语考试服务网)](https://www.hskonline.com/) - HSK mock tests and preparation. <sub>*For learners* · All levels · 简 · CN · Bilingual · Some content needs login</sub>
+- [KaoMate HSK 3.0 Mock Test and Practice Questions](https://kaomate.com/en/guides/hsk-mock-test/) - Try original Chinese practice questions with English explanations for HSK 1–6 and the combined HSK 7–9 exam, then use the linked official demo to practise under time limits. <sub>*For learners* · All levels · 简 · Global · Bilingual</sub>
 - [Mandarin Bean HSK](https://mandarinbean.com/hsk/) - HSK-levelled readings and vocabulary. <sub>*For learners* · All levels · 简 · CN · Bilingual</sub>
 - [SC-TOP TOCFL](https://tocfl.edu.tw/) - Official Taiwan TOCFL exam information and practice tests. <sub>*For learners* · All levels · 繁 · TW · Bilingual</sub>
 
